@@ -19,6 +19,8 @@ city_chats = {
 }
 
 
+
+
 async def main():
     config = Config()
     bot = Bot(config)
